@@ -1,3 +1,0 @@
- this is my content file 
-here you can see the content of text_file
-ddsdsdsdsdsds
